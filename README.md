@@ -1,11 +1,8 @@
 # My Stuff
 
-*Mapping Every Single City in California and Nevada*
-
-   June 2026-August 2026
-
-   *Link*
 
 
+
+| *Mapping Every Single City in California and Nevada* | *Link* |
 | --- | --- |
-| 4 | 5 |
+| June 2026-August 2026 | 5 |
