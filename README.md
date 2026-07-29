@@ -5,4 +5,4 @@
 | 1 | *Mapping Every Single City in California and Nevada* | *Link* |
 | | June 2026-August 2026| |
 | 2 | *untitled project* | *Link* |
-| | time frame | |
+| | MM YYYY-MM YYYY | |
